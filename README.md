@@ -1,4 +1,4 @@
-<h1 align="center">Hola, ICIOJU 👋</h1>
+<h1 align="center">Hola, soy ICIOJU 👋</h1>
 
 <p align="center">
   Desarrollo experiencias web y gestiono comunidades digitales que convierten ideas en proyectos reales.
