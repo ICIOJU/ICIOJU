@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://icioju.flechatech.com/"><img src="https://img.shields.io/badge/Portafolio-6366f1?style=flat-square&logo=google-chrome&logoColor=white" alt="Portafolio web" /></a>
-  <a href="https://maestro-yaco.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/ICIOJU"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -37,7 +35,7 @@ He creado, documentado y escalado comunidades en línea combinando desarrollo we
   <strong>Editores</strong><br>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=dark" alt="Editores" /></a>
   &nbsp;&nbsp;
-  <strong>Infra y cloud</strong><br>
+  <strong><br>Infra y cloud</strong><br>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,aws,gcp,azure&theme=dark" alt="Infra y cloud" /></a>
 </p>
 
