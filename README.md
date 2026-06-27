@@ -1,114 +1,133 @@
-<h1 align="center">Hola, soy ICIOJU 👋</h1>
+# 👋 Hola, soy ICIOJÚ QUIÑONEZ HERNANDEZ.
 
 <p align="center">
-  Desarrollo experiencias web y gestiono comunidades digitales que convierten ideas en proyectos reales.
+Representante Legal y Director de Innovación Tecnológica de la <strong>Fundación FlechaTech Impulsores</strong>.
 </p>
 
 <p align="center">
-  <a href="https://icioju.flechatech.com/"><img src="https://img.shields.io/badge/Portafolio-6366f1?style=flat-square&logo=google-chrome&logoColor=white" alt="Portafolio web" /></a>
-</p>
-
----
-
-### 👨‍💻 Perfil profesional
-
-Soy **desarrollador web** y **creador de comunidades** con más de **10 años** construyendo proyectos digitales alrededor de tecnología, contenido y aprendizaje.
-
-He creado, documentado y escalado comunidades en línea combinando desarrollo web, contenido educativo y automatización de procesos.
-
-- **+500.000** visualizaciones en mi blog enseñando programación, servidores y herramientas digitales
-- Comunidad activa en **Discord** con ~**60** usuarios en línea en promedio
-- Más de una década generando **contenido técnico y educativo**
-
-**Enfoque:** desarrollo web (frontend + backend), gestión y crecimiento de comunidades, automatización y despliegue en VPS, e implementación de soluciones con IA (MVP, RAG, LLMs).
-
----
-
-### 💻 Stack y herramientas
-
-<p align="center">
-  <strong>Lenguajes y frameworks</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,js,css,electron,html,php,laravel,python,java,vite,git,mysql&theme=dark" alt="Lenguajes y frameworks" /></a>
+Construimos tecnología abierta e inteligencia artificial para generar oportunidades, fortalecer emprendimientos y reducir las brechas digitales en Latinoamérica.
 </p>
 
 <p align="center">
-  <strong>Editores</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=dark" alt="Editores" /></a>
-  &nbsp;&nbsp;
-  <strong><br>Infra y cloud</strong><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,aws,gcp,azure&theme=dark" alt="Infra y cloud" /></a>
+
+<a href="https://flechatech.com/">
+<img src="https://img.shields.io/badge/Sitio%20Web-FlechaTech-2563EB?style=flat-square&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/company/fundacion-flechatech">
+<img src="https://img.shields.io/badge/LinkedIn-Fundación-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Fundacion-FlechaTech">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-### 🚀 En qué puedo aportar
+# 🚀 Nuestra misión
 
-- Desarrollo de páginas web modernas orientadas al negocio
-- Creación y gestión de comunidades (Discord, redes sociales)
-- **Meta Ads** y **Google Ads**
-- Contenido técnico y educativo
-- Herramientas con IA para automatización
-- Optimización de procesos digitales
+La **Fundación FlechaTech Impulsores** es una organización sin ánimo de lucro que utiliza el desarrollo de software y la inteligencia artificial para generar impacto social.
 
----
+Creemos que la tecnología debe reducir las barreras para emprender, aprender y acceder a nuevas oportunidades.
 
-### 🤖 Inteligencia artificial (en producción)
+Trabajamos junto a:
 
-**2 años** construyendo con IA aplicada. No soy teórico, soy implementador: desarrollo MVPs con LLM, **sistemas RAG y automatizaciones reales** (traducción, análisis y contenido) desplegadas en producción.
-
----
-
-### 🌐 Proyectos y experiencia destacada
-
-- **[Fayra-Bot](https://github.com/ICIOJU/Fayra-bot)** — herramienta de traducción multilingüe para Discord.
-
-#### Construcción de presencia web y SEO
-
-Proyectos **desarrollados íntegramente desde cero**. Diseñé la identidad visual y la estructura técnica para negocios que no tenían presencia sólida, logrando coherencia estética y resultados en buscadores.
-
-| Sitio | Rol |
-|------|-----|
-| [FlechaTech](https://flechatech.com/) | Servicios y productos de la empresa |
-| [ADN Bisutería y Artesanía](https://adnbisuteria.com/) | E-commerce informativo / marca artesanal |
-| [Guacaica Orgánico](https://guacaicaorganico.com/) | Productos orgánicos y territorio (Neira, Caldas) |
-| [TotuArte](https://totuarte.flechatech.com/) | Taller de arte en totumo (San Antero, Córdoba) |
+* 🎨 Artesanos
+* 🛠️ Talleres y oficios
+* 🏪 Pequeños negocios
+* 👩‍💼 Profesionales independientes
+* 🤝 Organizaciones sociales
+* 🌎 Emprendimientos comunitarios
 
 ---
 
-### 👥 Comunidad
+# 💙 Programa Impulso Digital
 
-Comunidades activas en torno a tecnología, servidores y videojuegos.
+Nuestro principal programa desarrolla herramientas digitales impulsadas por inteligencia artificial para ayudar a los emprendedores a fortalecer su presencia digital y acceder a tecnología que normalmente solo utilizan grandes organizaciones.
+
+📖
+<a href="https://flechatech.com/programas/impulso-digital-flechatech" target="_blank" rel="noopener noreferrer">
+  <strong>Programa Impulso Digital</strong>
+</a><br>
+
+
+---
+
+# 🌎 Open Source
+
+Este perfil reúne proyectos personales y experimentales.
+
+Los proyectos institucionales y de código abierto de la Fundación se desarrollan en:
+
+## 👉 <a href="https://github.com/Fundacion-FlechaTech" target="_blank" rel="noopener noreferrer">
+  <strong>GitHub Fundación</strong>
+</a><br>
+
+Nuestro objetivo es crear herramientas abiertas que puedan ser reutilizadas por comunidades, organizaciones sociales y desarrolladores.
+
+---
+
+# 💻 Tecnologías
 
 <p align="center">
-  <a href="https://discord.gg/yZnADDUKHx">
-    <img src="https://discord.com/api/guilds/1327715038928175165/widget.png?style=banner2" alt="Servidor de Discord" />
-  </a>
+
+<a href="https://skillicons.dev">
+
+<img src="https://skillicons.dev/icons?i=docker,js,ts,nodejs,nextjs,react,css,html,php,laravel,python,java,electron,vite,git,mysql,postgres,ubuntu,aws,gcp&theme=dark">
+
+</a>
+
 </p>
 
 ---
 
-### ✍️ Creación de contenido
+# 🤖 Áreas de trabajo
 
-Más de **10 años** compartiendo en el blog: programación, servidores, bots de Discord y herramientas para videojuegos.
-
-**+500.000** visitas acumuladas → [maestro-yaco.blogspot.com](https://maestro-yaco.blogspot.com/)
-
----
-
-### 📫 Contacto
-
-<p align="center">
-  <a href="mailto:icioju@proton.me"><img src="https://img.shields.io/badge/icioju@proton.me-6B4C9A?style=for-the-badge&logo=protonmail&logoColor=white" alt="Correo Proton" /></a>
-  <a href="mailto:info@flechatech.com"><img src="https://img.shields.io/badge/FlechaTech-info@flechatech.com-2563EB?style=for-the-badge" alt="Correo FlechaTech" /></a>
-  <a href="https://wa.me/573135981407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +57 313 598 1407" /></a>
-</p>
-
-<p align="center">
-  <small>Colombia · <a href="tel:+573135981407">+57 313 598 1407</a></small>
-</p>
+* Inteligencia Artificial
+* Agentes IA
+* Sistemas RAG
+* Automatización
+* Next.js
+* Laravel
+* Docker
+* VPS
+* Open Source
+* SEO + GEO
+* Infraestructura
+* Desarrollo de Plataformas SaaS
 
 ---
 
-### 🎯 Objetivo
+# 🌱 Impacto
 
-Busco integrarme a un equipo donde pueda aportar desde el **desarrollo web** y la **gestión de comunidades**, seguir creciendo y generar **impacto real** con tecnología, LLM e IA.
+Durante los últimos años he desarrollado proyectos tecnológicos, construido comunidades técnicas y compartido conocimiento con cientos de miles de personas.
+
+Actualmente ese conocimiento se canaliza a través de la Fundación FlechaTech Impulsores para ampliar el acceso a la tecnología y la inteligencia artificial en Latinoamérica.
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+🌐 <a href="https://flechatech.com/" target="_blank"><strong>Sitio Web</strong></a><br>
+
+💼 <a href="https://www.linkedin.com/company/fundacion-flechatech" target="_blank"><strong>LinkedIn Institucional</strong></a><br>
+
+📖 <a href="https://flechatech.com/programas/impulso-digital-flechatech" target="_blank"><strong>Programa Impulso Digital</strong></a><br>
+
+💻 <a href="https://github.com/Fundacion-FlechaTech" target="_blank"><strong>GitHub Fundación</strong></a><br>
+
+📧 <a href="mailto:icioju@flechatech.com">icioju@flechatech.com</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<strong>Construimos tecnología para generar oportunidades.</strong>
+
+</p>
