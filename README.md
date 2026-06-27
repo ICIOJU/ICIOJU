@@ -61,7 +61,8 @@ Este perfil reúne proyectos personales y experimentales.
 
 Los proyectos institucionales y de código abierto de la Fundación se desarrollan en:
 
-## 👉 <a href="https://github.com/Fundacion-FlechaTech" target="_blank" rel="noopener noreferrer">
+## 👉 
+<a href="https://github.com/Fundacion-FlechaTech" target="_blank" rel="noopener noreferrer">
   <strong>GitHub Fundación</strong>
 </a><br>
 
