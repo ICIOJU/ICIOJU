@@ -118,7 +118,7 @@ Actualmente ese conocimiento se canaliza a través de la Fundación FlechaTech I
 
 🌐 <a href="https://flechatech.com/" target="_blank"><strong>Sitio Web</strong></a><br>
 
-💼 <a href="https://www.linkedin.com/company/fundacion-flechatech" target="_blank"><strong>LinkedIn Institucional</strong></a><br>
+💼 <a href="https://www.linkedin.com/in/icioju-qui%C3%B1onez-hernandez" target="_blank"><strong>LinkedIn Personal</strong></a><br>
 
 📖 <a href="https://flechatech.com/programas/impulso-digital-flechatech" target="_blank"><strong>Programa Impulso Digital</strong></a><br>
 
