@@ -1,7 +1,9 @@
+
+<h1 align="center">
+  👋 Hola, soy ICIOJÚ QUIÑONEZ HERNÁNDEZ
+</h1>
+
 <p align="center">
-# 👋 Hola, soy ICIOJÚ QUIÑONEZ HERNANDEZ.
-
-
 Representante Legal y Director de Innovación Tecnológica de la <strong>Fundación FlechaTech Impulsores</strong>.
 </p>
 
