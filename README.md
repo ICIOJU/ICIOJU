@@ -18,10 +18,7 @@
   </a>
   <a href="https://www.linkedin.com/in/icioju-qui%C3%B1onez-hernandez">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Fundacion-FlechaTech">
-    <img src="https://img.shields.io/badge/GitHub-FlechaTech-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Fundación FlechaTech">
-  </a>
+  </a> 
 </p>
 
 ---
