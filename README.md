@@ -1,137 +1,89 @@
-
-<h1 align="center">
-  👋 Hola, soy ICIOJÚ QUIÑONEZ HERNÁNDEZ
+ <h1 align="center">
+  Hola, soy ICIOJÚ QUIÑONEZ 👋
 </h1>
 
 <p align="center">
-Representante Legal y Director de Innovación Tecnológica de la <strong>Fundación FlechaTech Impulsores</strong>.
+  <strong>Desarrollo de software · Inteligencia artificial · Experimentación tecnológica</strong>
 </p>
 
 <p align="center">
-Construimos tecnología abierta e inteligencia artificial para generar oportunidades, fortalecer emprendimientos y reducir las brechas digitales en Latinoamérica.
+  Exploro tecnologías, construyo proyectos y comparto lo que aprendo en el camino.
+  Me interesa descubrir cómo la inteligencia artificial y el software pueden
+  resolver problemas reales, ampliar oportunidades y hacer más accesible la tecnología.
 </p>
 
 <p align="center">
-
-<a href="https://flechatech.com/">
-<img src="https://img.shields.io/badge/Sitio%20Web-FlechaTech-2563EB?style=flat-square&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/company/fundacion-flechatech">
-<img src="https://img.shields.io/badge/LinkedIn-Fundación-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/Fundacion-FlechaTech">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-# 🚀 Nuestra misión
-
-La **Fundación FlechaTech Impulsores** es una organización sin ánimo de lucro que utiliza el desarrollo de software y la inteligencia artificial para generar impacto social.
-
-Creemos que la tecnología debe reducir las barreras para emprender, aprender y acceder a nuevas oportunidades.
-
-Trabajamos junto a:
-
-* 🎨 Artesanos
-* 🛠️ Talleres y oficios
-* 🏪 Pequeños negocios
-* 👩‍💼 Profesionales independientes
-* 🤝 Organizaciones sociales
-* 🌎 Emprendimientos comunitarios
-
----
-
-# 💙 Programa Impulso Digital
-
-Nuestro principal programa desarrolla herramientas digitales impulsadas por inteligencia artificial para ayudar a los emprendedores a fortalecer su presencia digital y acceder a tecnología que normalmente solo utilizan grandes organizaciones.
-
-📖
-<a href="https://flechatech.com/programas/impulso-digital-flechatech" target="_blank" rel="noopener noreferrer">
-  <strong>Programa Impulso Digital</strong>
-</a><br>
-
-
----
-
-# 🌎 Open Source
-
-Este perfil reúne proyectos personales y experimentales.
-
-Los proyectos institucionales y de código abierto de la Fundación se desarrollan en:
-
-👉
-<a href="https://github.com/Fundacion-FlechaTech" target="_blank" rel="noopener noreferrer">
-  <strong>GitHub Fundación</strong>
-</a><br>
-
-Nuestro objetivo es crear herramientas abiertas que puedan ser reutilizadas por comunidades, organizaciones sociales y desarrolladores.
-
----
-
-# 💻 Tecnologías
-
-<p align="center">
-
-<a href="https://skillicons.dev">
-
-<img src="https://skillicons.dev/icons?i=docker,js,ts,nodejs,nextjs,react,css,html,php,laravel,python,java,electron,vite,git,mysql,postgres,ubuntu,aws,gcp&theme=dark">
-
-</a>
-
+  <a href="https://icioju.com">
+    <img src="https://img.shields.io/badge/Portafolio-icioju.com-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portafolio personal">
+  </a>
+  <a href="https://www.linkedin.com/in/icioju-qui%C3%B1onez-hernandez">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Fundacion-FlechaTech">
+    <img src="https://img.shields.io/badge/GitHub-FlechaTech-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Fundación FlechaTech">
+  </a>
 </p>
 
 ---
 
-# 🤖 Áreas de trabajo
+## 🧪 Construir, experimentar y aprender
 
-* Inteligencia Artificial
-* Agentes IA
-* Sistemas RAG
-* Automatización
-* Next.js
-* Laravel
-* Docker
-* VPS
-* Open Source
-* SEO + GEO
-* Infraestructura
-* Desarrollo de Plataformas SaaS
+No creo que todas las ideas tengan que convertirse en empresas ni que todos los experimentos deban salir bien.
 
----
+Este perfil es mi espacio para explorar herramientas, desarrollar software, probar ideas y documentar tanto los resultados como los errores.
 
-# 🌱 Impacto
+Mis intereses actuales incluyen:
 
-Durante los últimos años he desarrollado proyectos tecnológicos, construido comunidades técnicas y compartido conocimiento con cientos de miles de personas.
+- 🤖 **Inteligencia artificial:** agentes, modelos de lenguaje e integración de IA en aplicaciones.
+- 🛠️ **Automatización:** herramientas y flujos de trabajo que reduzcan tareas repetitivas.
+- 💻 **Desarrollo de software:** aplicaciones web, APIs y productos digitales.
+- 🌐 **Infraestructura:** Docker, Linux, VPS y despliegue de proyectos.
+- 🔎 **Marketing digital:** SEO, GEO, analítica y descubrimiento de oportunidades.
+- 🔓 **Open source:** herramientas, experimentos y conocimiento que otras personas puedan aprovechar.
 
-Actualmente ese conocimiento se canaliza a través de la Fundación FlechaTech Impulsores para ampliar el acceso a la tecnología y la inteligencia artificial en Latinoamérica.
+## 🚀 Proyectos y experimentos
 
----
+Aquí encontrarás proyectos personales, prototipos y experimentos tecnológicos en diferentes etapas de desarrollo.
 
-# 📫 Contacto
+Mi objetivo es construir soluciones reales, entender cómo funcionan y compartir lo que descubro durante el proceso.
+
+🌐 [Explora mi portafolio](https://icioju.com)
+
+## 💙 Tecnología con impacto social
+
+Soy representante legal y director de innovación tecnológica de la **Fundación FlechaTech Impulsores**, una iniciativa orientada a ampliar el acceso a la tecnología, la inteligencia artificial y las oportunidades digitales en Latinoamérica.
+
+Trabajamos para acercar herramientas digitales a emprendedores, pequeños negocios, artesanos y organizaciones sociales.
+
+🌐 [Fundación FlechaTech](https://flechatech.com/)
+
+📖 [Programa Impulso Digital](https://flechatech.com/programas/impulso-digital-flechatech)
+
+## 🧰 Tecnologías que exploro
 
 <p align="center">
-
-🌐 <a href="https://flechatech.com/" target="_blank"><strong>Sitio Web</strong></a><br>
-
-💼 <a href="https://www.linkedin.com/in/icioju-qui%C3%B1onez-hernandez" target="_blank"><strong>LinkedIn Personal</strong></a><br>
-
-📖 <a href="https://flechatech.com/programas/impulso-digital-flechatech" target="_blank"><strong>Programa Impulso Digital</strong></a><br>
-
-💻 <a href="https://github.com/Fundacion-FlechaTech" target="_blank"><strong>GitHub Fundación</strong></a><br>
-
-📧 <a href="mailto:icioju@flechatech.com">icioju@flechatech.com</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,js,ts,nodejs,nextjs,react,css,html,php,laravel,python,java,electron,vite,git,mysql,postgres,ubuntu,aws,gcp&theme=dark" alt="Tecnologías y herramientas" />
+  </a>
 </p>
 
----
+## 🌱 Mi forma de trabajar
+
+- Aprender construyendo, no solamente consumiendo información.
+- Priorizar herramientas accesibles y soluciones sostenibles.
+- Experimentar antes de complicar una arquitectura.
+- Compartir aprendizajes que puedan ser útiles para otras personas.
+- Mantener la curiosidad sin perder de vista los problemas reales.
+
+No se trata de conocer todas las herramientas, sino de aprender a utilizarlas para crear algo útil.
+
+## 📫 Conectemos
 
 <p align="center">
+  <a href="https://icioju.com">🌐 Portafolio personal</a> ·
+  <a href="https://www.linkedin.com/in/icioju-qui%C3%B1onez-hernandez">💼 LinkedIn</a> ·  
+</p>
 
-<strong>Construimos tecnología para generar oportunidades.</strong>
-
+<p align="center">
+  <strong>Ideas en construcción. Tecnología en evolución.</strong>
 </p>
